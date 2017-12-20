@@ -6,7 +6,7 @@
 
 node_modules、package.json、index.js、public文件夹
 
-![image](https://github.com/vaeer/proxyapi/tree/master/images/1.png)
+![Alt text](./images/1.png)
 
 node_modules用来放置依赖的模块
 
@@ -22,7 +22,7 @@ public 放置代理服务器proxy.js模块、路由模块server.js、index.html�
 
 结果如下
 
-![image](https://github.com/vaeer/proxyapi/tree/master/images/2.png)
+![Alt text](./images/2.png)
 
 
 	
